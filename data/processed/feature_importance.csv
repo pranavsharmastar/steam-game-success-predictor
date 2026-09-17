@@ -1,0 +1,718 @@
+feature,coefficient,absolute_importance,feature_group
+developer_publisher__developer_OVERKILL - a Starbreeze Studio.,2.6641514493338305,2.6641514493338305,Other
+"developer_publisher__publisher_Paradise Project,Paradise Project",2.242915931348218,2.242915931348218,Other
+developer_publisher__developer_Behaviour Digital Inc.,2.2192911828139814,2.2192911828139814,Other
+"developer_publisher__publisher_Hanako Games,Hanako Games",-2.062956502471956,2.062956502471956,Other
+"developer_publisher__publisher_Dovetail Games - Trains,Dovetail Games - Trains",-1.9734080771548497,1.9734080771548497,Other
+"developer_publisher__publisher_Psyonix, Inc.,Psyonix, Inc.",1.9402138224308867,1.9402138224308867,Other
+"developer_publisher__developer_Psyonix, Inc.",1.9402138224308867,1.9402138224308867,Other
+developer_publisher__developer_CD PROJEKT RED,1.9218490084204953,1.9218490084204953,Other
+"developer_publisher__publisher_Behaviour Digital Inc.,Behaviour Digital Inc.",1.8731764952301897,1.8731764952301897,Other
+tags__tag_singleplayer,1.858397746373851,1.858397746373851,Other
+"developer_publisher__publisher_Slitherine Ltd.,Slitherine Ltd.",-1.8490148041661627,1.8490148041661627,Other
+"developer_publisher__developer_CREATIVE ASSEMBLY,Feral Interactive (Linux),Feral Interactive (Mac)",1.8488644763798179,1.8488644763798179,Other
+"developer_publisher__publisher_NVLMaker,NVLMaker",1.818364760340613,1.818364760340613,Other
+"developer_publisher__publisher_Devolver Digital,Devolver Digital",1.7482733242874835,1.7482733242874835,Other
+"developer_publisher__publisher_505 Games,505 Games",1.722309609697305,1.722309609697305,Other
+developer_publisher__developer_Massive Entertainment,1.678144560855639,1.678144560855639,Other
+"developer_publisher__publisher_Adult Swim Games,Adult Swim Games",1.524432325454482,1.524432325454482,Other
+developer_publisher__developer_Forever Entertainment S. A.,1.5219566180684334,1.5219566180684334,Other
+developer_publisher__developer_Colossal Order Ltd.,1.4765079031985928,1.4765079031985928,Other
+tags__tag_multiplayer,1.4725151684489377,1.4725151684489377,Other
+"developer_publisher__publisher_Bethesda Softworks,Bethesda Softworks",1.4715632681317419,1.4715632681317419,Other
+"developer_publisher__publisher_upjers,upjers",-1.4545435986714508,1.4545435986714508,Other
+"developer_publisher__publisher_Jetdogs Studios,Jetdogs Studios",1.3916824618703947,1.3916824618703947,Other
+"developer_publisher__publisher_Ghostlight LTD,Ghostlight LTD",-1.37201121254439,1.37201121254439,Other
+"developer_publisher__publisher_SakuraGame,SakuraGame",1.3496042611038066,1.3496042611038066,Other
+"developer_publisher__publisher_Back To Basics Gaming,Back To Basics Gaming",1.342219119351375,1.342219119351375,Other
+"developer_publisher__publisher_Warhorse Studios,Deep Silver,Warhorse Studios,Deep Silver",1.3266233957281484,1.3266233957281484,Other
+"developer_publisher__publisher_Artifex Mundi,Artifex Mundi",-1.2996100377589586,1.2996100377589586,Other
+developer_publisher__developer_upjers,-1.2631234110069696,1.2631234110069696,Other
+developer_publisher__developer_Expansive Worlds,1.218744940194078,1.218744940194078,Other
+developer_publisher__developer_Artifex Mundi,1.173818592806539,1.173818592806539,Other
+"developer_publisher__publisher_Versus Evil,Versus Evil",1.1651660210366075,1.1651660210366075,Other
+"developer_publisher__publisher_Headup,Headup",-1.1628911509243938,1.1628911509243938,Other
+developer_publisher__developer_Winter Wolves,-1.1541241755290212,1.1541241755290212,Other
+"developer_publisher__publisher_Winter Wolves,Winter Wolves",-1.1541241755290212,1.1541241755290212,Other
+"developer_publisher__publisher_Ubisoft,Ubisoft",1.1455743291029536,1.1455743291029536,Other
+"developer_publisher__publisher_Aldorlea Games,Aldorlea Games",-1.1402109297827612,1.1402109297827612,Other
+"developer_publisher__publisher_RunServer,RunServer",-1.140101049318236,1.140101049318236,Other
+"developer_publisher__publisher_United Independent Entertainment GmbH,United Independent Entertainment GmbH",-1.1344387075304438,1.1344387075304438,Other
+"developer_publisher__publisher_Green Man Gaming Publishing,Green Man Gaming Publishing",-1.1306244046981775,1.1306244046981775,Other
+developer_publisher__developer_Warhorse Studios,1.1276362413676317,1.1276362413676317,Other
+"developer_publisher__publisher_SEGA,Feral Interactive (Linux),Feral Interactive (Mac),SEGA,Feral Interactive (Linux),Feral Interactive (Mac)",1.1017742089981344,1.1017742089981344,Other
+developer_publisher__developer_CyberConnect2 Co. Ltd.,1.090373351841908,1.090373351841908,Other
+"developer_publisher__publisher_Valve,Valve",1.0846798003337972,1.0846798003337972,Other
+"developer_publisher__publisher_轻文,轻文",1.080973761662541,1.080973761662541,Other
+developer_publisher__developer_Larian Studios,1.0764895883863486,1.0764895883863486,Other
+"developer_publisher__publisher_Application Systems Heidelberg,Application Systems Heidelberg",-1.0763807581219946,1.0763807581219946,Other
+"developer_publisher__publisher_Interplay Inc.,Interplay Inc.",-1.075487411533505,1.075487411533505,Other
+"developer_publisher__publisher_11 bit studios,11 bit studios",1.0738980188545668,1.0738980188545668,Other
+"developer_publisher__publisher_HeroCraft,HeroCraft",-1.0688510794991883,1.0688510794991883,Other
+developer_publisher__developer_Star Gem Inc.,-1.068615769653544,1.068615769653544,Other
+"developer_publisher__publisher_Alawar Premium,Alawar Premium",1.0674323773060963,1.0674323773060963,Other
+"developer_publisher__publisher_Square Enix,Square Enix",1.059426837745349,1.059426837745349,Other
+"developer_publisher__publisher_8Floor,8Floor",-1.0418287299250892,1.0418287299250892,Other
+"developer_publisher__publisher_LucasArts,Lucasfilm,Disney Interactive,LucasArts,Lucasfilm,Disney Interactive",1.0310248856164939,1.0310248856164939,Other
+developer_publisher__developer_VisualArts/Key,1.030001144504169,1.030001144504169,Other
+developer_publisher__developer_Fishing Planet LLC,-1.0291487629143146,1.0291487629143146,Other
+"developer_publisher__publisher_Xbox Game Studios,Xbox Game Studios",1.0245134054230325,1.0245134054230325,Other
+"developer_publisher__publisher_Humble Bundle,Humble Bundle",1.020565787938185,1.020565787938185,Other
+developer_publisher__developer_Aldorlea Games,-1.0178355825357417,1.0178355825357417,Other
+"developer_publisher__publisher_DigitalEZ,DigitalEZ",1.0082087253009495,1.0082087253009495,Other
+developer_publisher__developer_ASTRO PORT,-1.006498743655325,1.006498743655325,Other
+"developer_publisher__publisher_Dovetail Games - Flight,Dovetail Games - Flight",-1.006179159346579,1.006179159346579,Other
+developer_publisher__developer_11 bit studios,1.0001885832029498,1.0001885832029498,Other
+"developer_publisher__publisher_GrabTheGames,GrabTheGames",-1.0001430728346112,1.0001430728346112,Other
+developer_publisher__developer_Double Fine Productions,0.9900277470304275,0.9900277470304275,Other
+genres__genre_free_to_play,0.9889549230247203,0.9889549230247203,Other
+developer_publisher__developer_Supergiant Games,0.9867392849169154,0.9867392849169154,Other
+"developer_publisher__developer_Studio Wildcard,Instinct Games,Efecto Studios,Virtual Basement LLC",0.9789339994564167,0.9789339994564167,Other
+"developer_publisher__publisher_indie_games_studio,indie_games_studio",-0.9694234637795369,0.9694234637795369,Other
+developer_publisher__developer_Simulators Live,-0.9616226678859395,0.9616226678859395,Other
+"developer_publisher__publisher_Simulators Live,Simulators Live",-0.9616226678859395,0.9616226678859395,Other
+developer_publisher__developer_Traveller's Tales,0.9606412349792305,0.9606412349792305,Other
+developer_publisher__developer_Scott Cawthon,0.9535896907040156,0.9535896907040156,Other
+"developer_publisher__publisher_Scott Cawthon,Scott Cawthon",0.9535896907040156,0.9535896907040156,Other
+"developer_publisher__publisher_NukGames,NukGames",0.9441391070239336,0.9441391070239336,Other
+developer_publisher__developer_NukGames,0.9441391070239336,0.9441391070239336,Other
+developer_publisher__developer_Red Dot Games,-0.9431905540646106,0.9431905540646106,Other
+developer_publisher__developer_Laush Dmitriy Sergeevich,-0.9339070756020279,0.9339070756020279,Other
+genres__genre_racing,-0.933577808260225,0.933577808260225,Other
+developer_publisher__developer_Valve,0.9288656436264089,0.9288656436264089,Other
+developer_publisher__release_era_2006-2010,-0.915850452244825,0.915850452244825,Other
+developer_publisher__developer_EA Los Angeles,0.9104938410234289,0.9104938410234289,Other
+developer_publisher__developer_Treyarch,-0.9061305772911584,0.9061305772911584,Other
+genres__genre_utilities,0.8963468111776631,0.8963468111776631,Other
+"developer_publisher__publisher_Idea Factory International,Idea Factory International",0.8950540357066709,0.8950540357066709,Other
+"developer_publisher__publisher_SEGA,SEGA",0.8935846800294562,0.8935846800294562,Other
+developer_publisher__developer_Ripknot Systems,-0.8879220854423127,0.8879220854423127,Other
+"developer_publisher__publisher_Ripknot Systems,Ripknot Systems",-0.8879220854423127,0.8879220854423127,Other
+"developer_publisher__publisher_Matthew Brown,Matthew Brown",0.8829317123888908,0.8829317123888908,Other
+developer_publisher__developer_Matthew Brown,0.8829317123888908,0.8829317123888908,Other
+developer_publisher__developer_Soldak Entertainment,-0.882401035753367,0.882401035753367,Other
+"developer_publisher__publisher_Soldak Entertainment,Soldak Entertainment",-0.882401035753367,0.882401035753367,Other
+developer_publisher__developer_Ubisoft Montreal,0.8818230831975244,0.8818230831975244,Other
+"developer_publisher__publisher_Double Fine Productions,Double Fine Productions",0.8812431770162727,0.8812431770162727,Other
+developer_publisher__developer_Giants Software,-0.8796883033064152,0.8796883033064152,Other
+tags__tag_fps,0.8780365137649591,0.8780365137649591,Other
+"developer_publisher__publisher_SOEDESCO Publishing,SOEDESCO Publishing",-0.8768308737908409,0.8768308737908409,Other
+developer_publisher__developer_The Sims Studio,-0.867270496865159,0.867270496865159,Other
+"developer_publisher__publisher_HeR Interactive,HeR Interactive",-0.8653433768465212,0.8653433768465212,Other
+"developer_publisher__publisher_Warner Bros. Interactive Entertainment,Warner Bros. Interactive Entertainment",0.864712455270189,0.864712455270189,Other
+developer_publisher__developer_NEKO WORKs,0.862912773048069,0.862912773048069,Other
+"developer_publisher__publisher_Libredia Entertainment,Libredia Entertainment",-0.8605770684466642,0.8605770684466642,Other
+developer_publisher__developer_Hothead Games,-0.8554862410178191,0.8554862410178191,Other
+developer_publisher__developer_Microblast Games,0.8549679124673158,0.8549679124673158,Other
+"developer_publisher__publisher_Daedalic Entertainment,Daedalic Entertainment",0.8493367361572827,0.8493367361572827,Other
+developer_publisher__developer_Zoo Corporation,0.8493026738059982,0.8493026738059982,Other
+developer_publisher__developer_Google,0.8456739344026581,0.8456739344026581,Other
+"developer_publisher__publisher_Google,Google",0.8456739344026581,0.8456739344026581,Other
+"developer_publisher__publisher_Square Enix,Feral Interactive (Mac),Feral Interactive (Linux),Square Enix,Feral Interactive (Mac),Feral Interactive (Linux)",0.8444286642882833,0.8444286642882833,Other
+developer_publisher__developer_Konstructors Entertainment,0.8406811479738968,0.8406811479738968,Other
+developer_publisher__developer_34BigThings srl,-0.8397199059550238,0.8397199059550238,Other
+developer_publisher__developer_Ageod,-0.837350052133448,0.837350052133448,Other
+developer_publisher__developer_Square Enix,0.8368121260742791,0.8368121260742791,Other
+"developer_publisher__publisher_Digital Tribe,Digital Tribe",-0.8302563969644167,0.8302563969644167,Other
+"developer_publisher__developer_CAVE Interactive CO.,LTD.",0.8214587847338682,0.8214587847338682,Other
+"developer_publisher__publisher_Factus Games,Factus Games",-0.814301553854864,0.814301553854864,Other
+"developer_publisher__developer_Gearbox Software,Aspyr (Mac),Aspyr (Linux)",-0.8138653949610584,0.8138653949610584,Other
+developer_publisher__developer_Orange_Juice,-0.8123802924504537,0.8123802924504537,Other
+"developer_publisher__developer_Firaxis Games,Feral Interactive (Mac),Feral Interactive (Linux)",0.8008449996166638,0.8008449996166638,Other
+"developer_publisher__publisher_2K,Feral Interactive (Mac),Feral Interactive (Linux),2K,Feral Interactive (Mac),Feral Interactive (Linux)",0.8008449996166638,0.8008449996166638,Other
+developer_publisher__developer_Sunward Games,-0.8002496998755417,0.8002496998755417,Other
+developer_publisher__developer_Hosted Games,-0.7953914330180015,0.7953914330180015,Other
+"developer_publisher__publisher_Hosted Games,Hosted Games",-0.7953914330180015,0.7953914330180015,Other
+"developer_publisher__publisher_Raw Fury,Raw Fury",0.793615398369625,0.793615398369625,Other
+developer_publisher__developer_Bohemia Interactive,0.7928194466420839,0.7928194466420839,Other
+"developer_publisher__publisher_CAPCOM Co., Ltd.,CAPCOM Co., Ltd.",0.791998323289654,0.791998323289654,Other
+"developer_publisher__publisher_Sekai Project,Sekai Project",0.79159533172016,0.79159533172016,Other
+developer_publisher__developer_Holotech Studios,0.7876678961564192,0.7876678961564192,Other
+developer_publisher__developer_Team17 Digital Ltd,-0.7848173292365763,0.7848173292365763,Other
+"developer_publisher__publisher_Atriagames,Atriagames",-0.7846615666905626,0.7846615666905626,Other
+"developer_publisher__publisher_Asmodee Digital,Asmodee Digital",0.7821064949894909,0.7821064949894909,Other
+"developer_publisher__publisher_Good Shepherd Entertainment,Good Shepherd Entertainment",0.7759043307795532,0.7759043307795532,Other
+developer_publisher__developer_10tons Ltd,-0.7728597546952495,0.7728597546952495,Other
+"developer_publisher__publisher_Arcen Games, LLC,Arcen Games, LLC",-0.7721309075431444,0.7721309075431444,Other
+"developer_publisher__developer_Arcen Games, LLC",-0.7721309075431444,0.7721309075431444,Other
+"developer_publisher__publisher_RewindApp,RewindApp",-0.7700561575239385,0.7700561575239385,Other
+"developer_publisher__developer_Elias Viglione,Jussi Kukkonen",-0.7693555861947767,0.7693555861947767,Other
+developer_publisher__developer_FreezeNova,-0.7674796136716396,0.7674796136716396,Other
+"developer_publisher__publisher_FreezeNova,FreezeNova",-0.7674796136716396,0.7674796136716396,Other
+genres__genre_action,-0.7672732574197996,0.7672732574197996,Other
+"developer_publisher__developer_CAPCOM Co., Ltd.",0.763536953968901,0.763536953968901,Other
+"developer_publisher__publisher_MumboJumbo,MumboJumbo",-0.7629364876916918,0.7629364876916918,Other
+"developer_publisher__publisher_Plug In Digital,Plug In Digital",-0.7539510996221759,0.7539510996221759,Other
+"developer_publisher__publisher_OtakuMaker SARL,OtakuMaker SARL",-0.7504063255970491,0.7504063255970491,Other
+developer_publisher__developer_Brave Giant LTD,-0.7472485990113724,0.7472485990113724,Other
+"developer_publisher__publisher_КиКо,КиКо",-0.7465351285010949,0.7465351285010949,Other
+"developer_publisher__publisher_Flying Interactive,Flying Interactive",-0.7397671006120282,0.7397671006120282,Other
+"developer_publisher__publisher_Kagura Games,Kagura Games",0.739706275127129,0.739706275127129,Other
+developer_publisher__developer_NS STUDIO,0.7392796129463927,0.7392796129463927,Other
+"developer_publisher__publisher_Codemasters,Codemasters",0.737526775462926,0.737526775462926,Other
+developer_publisher__developer_Tamsoft,0.7310901887863485,0.7310901887863485,Other
+"developer_publisher__publisher_Ludosity,Ludosity",0.7273828254864396,0.7273828254864396,Other
+developer_publisher__developer_MumboJumbo,-0.7265891569142564,0.7265891569142564,Other
+tags__tag_adventure,0.7231047767806511,0.7231047767806511,Other
+developer_publisher__developer_Infinity Ward,-0.718778856973713,0.718778856973713,Other
+developer_publisher__developer_MyACG Studio,0.7186743329997717,0.7186743329997717,Other
+"developer_publisher__publisher_Disney Interactive,Disney Interactive",-0.7161310742499817,0.7161310742499817,Other
+"developer_publisher__publisher_2K,2K",0.7158944181831934,0.7158944181831934,Other
+tags__tag_action,0.7157767187396873,0.7157767187396873,Other
+"developer_publisher__publisher_Tin Man Games,Tin Man Games",-0.712169149702468,0.712169149702468,Other
+developer_publisher__developer_Tin Man Games,-0.712169149702468,0.712169149702468,Other
+"developer_publisher__publisher_XSEED Games,Marvelous USA, Inc.,Marvelous,XSEED Games,Marvelous USA, Inc.,Marvelous",0.7102240800917609,0.7102240800917609,Other
+"developer_publisher__publisher_Capcom,Capcom",0.7006215836477104,0.7006215836477104,Other
+developer_publisher__developer_Croteam,-0.695167890513254,0.695167890513254,Other
+"developer_publisher__publisher_Aerosoft GmbH,Aerosoft GmbH",-0.6938965163406593,0.6938965163406593,Other
+"developer_publisher__publisher_Flat Cat Games,Flat Cat Games",-0.6924091433244933,0.6924091433244933,Other
+developer_publisher__developer_Flat Cat Games,-0.6924091433244933,0.6924091433244933,Other
+developer_publisher__developer_Nomad Games,-0.6911706952729431,0.6911706952729431,Other
+developer_publisher__developer_Krome Studios,0.6872029695635148,0.6872029695635148,Other
+"developer_publisher__publisher_Flazm,Flazm",0.6857297916833393,0.6857297916833393,Other
+"developer_publisher__publisher_Fruitbat Factory,Fruitbat Factory",-0.6833010701505747,0.6833010701505747,Other
+"developer_publisher__publisher_Nomad Games,Nomad Games",-0.6821293366307154,0.6821293366307154,Other
+developer_publisher__developer_Core Design,0.681600916251848,0.681600916251848,Other
+"developer_publisher__publisher_None,None",-0.6747510833732181,0.6747510833732181,Other
+"developer_publisher__publisher_Pixeljam,Pixeljam",-0.6722078680448035,0.6722078680448035,Other
+"developer_publisher__publisher_Gaijin Entertainment,Gaijin Entertainment",-0.6702846160471113,0.6702846160471113,Other
+"developer_publisher__publisher_Gearbox Publishing,Gearbox Publishing",0.6672889926515977,0.6672889926515977,Other
+"developer_publisher__publisher_Techland Publishing,Techland Publishing",0.6657904906723298,0.6657904906723298,Other
+developer_publisher__developer_Crisp App Studio,-0.6626863399288792,0.6626863399288792,Other
+"developer_publisher__publisher_SNK CORPORATION,SNK CORPORATION",0.6622340804982249,0.6622340804982249,Other
+developer_publisher__developer_07th Expansion,-0.6610197864759217,0.6610197864759217,Other
+"developer_publisher__publisher_Wales Interactive,Wales Interactive",0.6597884792989506,0.6597884792989506,Other
+"developer_publisher__publisher_D3 PUBLISHER,D3 PUBLISHER",0.6596351191350115,0.6596351191350115,Other
+developer_publisher__developer_Starodymov,-0.6588337174825647,0.6588337174825647,Other
+developer_publisher__developer_Spiderweb Software,-0.6584226103630074,0.6584226103630074,Other
+"developer_publisher__publisher_Spiderweb Software,Spiderweb Software",-0.6584226103630074,0.6584226103630074,Other
+developer_publisher__developer_Unknown Worlds Entertainment,0.6565247667874089,0.6565247667874089,Other
+"developer_publisher__publisher_BadLand Publishing,BadLand Publishing",-0.6517681415067066,0.6517681415067066,Other
+"developer_publisher__publisher_2K,Aspyr (Mac),2K,Aspyr (Mac)",0.6492964277358384,0.6492964277358384,Other
+"developer_publisher__publisher_Zachtronics,Zachtronics",0.6462403412937072,0.6462403412937072,Other
+developer_publisher__developer_Zachtronics,0.6462403412937072,0.6462403412937072,Other
+"developer_publisher__publisher_Headup Games,Headup Games",-0.6460523623582143,0.6460523623582143,Other
+developer_publisher__developer_Dan Fornace,0.6456149704579639,0.6456149704579639,Other
+developer_publisher__developer_Quiet River,0.6455289281657662,0.6455289281657662,Other
+"developer_publisher__publisher_Quiet River,Quiet River",0.6455289281657662,0.6455289281657662,Other
+"developer_publisher__publisher_Zen Studios,Zen Studios",0.6438474468361136,0.6438474468361136,Other
+"developer_publisher__publisher_Curve Digital,Curve Digital",0.636990277931246,0.636990277931246,Other
+"developer_publisher__publisher_Milkstone Studios,Milkstone Studios",0.6369520068864014,0.6369520068864014,Other
+"developer_publisher__publisher_Mommy's Best Games,Mommy's Best Games",-0.6366448583453985,0.6366448583453985,Other
+"developer_publisher__publisher_Blender Games,Blender Games",-0.6331089641057513,0.6331089641057513,Other
+developer_publisher__developer_Blender Games,-0.6331089641057513,0.6331089641057513,Other
+"developer_publisher__publisher_VT Publishing,VT Publishing",-0.6294680232860983,0.6294680232860983,Other
+developer_publisher__developer_ANPA.US,-0.6260800828960885,0.6260800828960885,Other
+"developer_publisher__developer_Spike Chunsoft Co., Ltd.",0.6221413633059548,0.6221413633059548,Other
+"developer_publisher__publisher_DLsite,DLsite",0.6220546443815046,0.6220546443815046,Other
+"developer_publisher__publisher_Alawar Entertainment,Alawar Entertainment",-0.6199454456649962,0.6199454456649962,Other
+"developer_publisher__publisher_SimBin,SimBin",-0.6171157235429922,0.6171157235429922,Other
+"developer_publisher__publisher_Rising Star Games,Rising Star Games",-0.6148749748054855,0.6148749748054855,Other
+developer_publisher__developer_RewindApp,-0.6145890478518344,0.6145890478518344,Other
+developer_publisher__developer_Night Dreams Studio,-0.6140694475332605,0.6140694475332605,Other
+"developer_publisher__publisher_Night Dreams Studio,Night Dreams Studio",-0.6140694475332605,0.6140694475332605,Other
+developer_publisher__developer_Firaxis Games,-0.6139488830441112,0.6139488830441112,Other
+"developer_publisher__publisher_Anarchy Enterprises,Anarchy Enterprises",-0.6122803924779109,0.6122803924779109,Other
+developer_publisher__developer_Anarchy Enterprises,-0.6122803924779109,0.6122803924779109,Other
+"developer_publisher__publisher_Laush Studio,Laush Studio",-0.6114446322764667,0.6114446322764667,Other
+developer_publisher__developer_Blackbird Interactive,0.6083723173056839,0.6083723173056839,Other
+"developer_publisher__publisher_Big Fish Games,Big Fish Games",-0.6055320845972799,0.6055320845972799,Other
+"developer_publisher__publisher_Frozenbyte,Frozenbyte",0.605124038820059,0.605124038820059,Other
+developer_publisher__developer_Frozenbyte,0.605124038820059,0.605124038820059,Other
+"developer_publisher__developer_Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",-0.6038269823947914,0.6038269823947914,Other
+"developer_publisher__publisher_WB Games,WB Games",0.6018148446296511,0.6018148446296511,Other
+"developer_publisher__developer_Relic Entertainment,Feral Interactive (Mac),Feral Interactive (Linux)",-0.6013000185966448,0.6013000185966448,Other
+tags__tag_racing,0.6012082714739514,0.6012082714739514,Other
+"developer_publisher__developer_QLOC,DIMPS",-0.6010393772720085,0.6010393772720085,Other
+developer_publisher__developer_Paradox Development Studio,0.5998590404164326,0.5998590404164326,Other
+"developer_publisher__developer_Jackbox Games, Inc.",0.5994931826168789,0.5994931826168789,Other
+"developer_publisher__publisher_Jackbox Games, Inc.,Jackbox Games, Inc.",0.5994931826168789,0.5994931826168789,Other
+developer_publisher__developer_Silden,-0.5984919972689159,0.5984919972689159,Other
+"developer_publisher__developer_Firaxis Games,Aspyr (Mac),Aspyr (Linux)",0.5984889927861248,0.5984889927861248,Other
+"developer_publisher__publisher_Warfare Studios,Warfare Studios",-0.5979045217099341,0.5979045217099341,Other
+developer_publisher__developer_AMPLITUDE Studios,-0.5961126055279701,0.5961126055279701,Other
+developer_publisher__developer_Proxy Studios,0.5946009185518152,0.5946009185518152,Other
+developer_publisher__developer_Cyanide Studio,-0.5941294812914097,0.5941294812914097,Other
+"developer_publisher__publisher_Ominous Entertainment,Ominous Entertainment",-0.5923558031053552,0.5923558031053552,Other
+developer_publisher__developer_Ominous Entertainment,-0.5923558031053552,0.5923558031053552,Other
+"developer_publisher__publisher_Tonguç Bodur,Tonguç Bodur",-0.5908439581649928,0.5908439581649928,Other
+developer_publisher__developer_Tonguç Bodur,-0.5908439581649928,0.5908439581649928,Other
+developer_publisher__developer_Alientrap,0.5880265773271347,0.5880265773271347,Other
+"developer_publisher__publisher_Alientrap,Alientrap",0.5880265773271347,0.5880265773271347,Other
+developer_publisher__developer_Obsidian Entertainment,0.5840835871351876,0.5840835871351876,Other
+"developer_publisher__developer_Flashback Games,The Lordz Games Studio",0.5838405979185035,0.5838405979185035,Other
+developer_publisher__developer_Bossa Studios,0.5812541506490374,0.5812541506490374,Other
+developer_publisher__developer_SimBin,-0.5745186046890317,0.5745186046890317,Other
+tags__tag_rpg,0.572154272961746,0.572154272961746,Other
+"developer_publisher__publisher_Ripstone,Ripstone",-0.5704120711069716,0.5704120711069716,Other
+"developer_publisher__developer_TT Games,Feral Interactive (Mac)",-0.5675363699510041,0.5675363699510041,Other
+"developer_publisher__publisher_Spike Chunsoft Co., Ltd.,Spike Chunsoft Co., Ltd.",0.5641028401011551,0.5641028401011551,Other
+"developer_publisher__publisher_GSC Game World,GSC Game World",-0.5618145385832253,0.5618145385832253,Other
+"developer_publisher__publisher_AGM PLAYISM,AGM PLAYISM",-0.5579689862055939,0.5579689862055939,Other
+tags__tag_strategy,0.5545121075682755,0.5545121075682755,Other
+developer_publisher__developer_Wargaming Group Limited,0.5533910401104105,0.5533910401104105,Other
+developer_publisher__developer_Klei Entertainment,0.5514042831644833,0.5514042831644833,Other
+"developer_publisher__publisher_Chubby Pixel,Chubby Pixel",0.5478615868209727,0.5478615868209727,Other
+numeric__release_year,-0.5471105840995684,0.5471105840995684,Other
+"developer_publisher__publisher_Fellow Traveller,Fellow Traveller",0.5468540766680883,0.5468540766680883,Other
+"developer_publisher__publisher_0Cube,0Cube",-0.5440438333285398,0.5440438333285398,Other
+"developer_publisher__publisher_Frontwing USA,Frontwing USA",0.5431691546323961,0.5431691546323961,Other
+developer_publisher__developer_The Farm 51,0.5405613413759979,0.5405613413759979,Other
+"developer_publisher__publisher_Riviysky,Riviysky",-0.539041379782879,0.539041379782879,Other
+"developer_publisher__publisher_Aspyr,Aspyr",0.5382656181088642,0.5382656181088642,Other
+"developer_publisher__publisher_SCS Software,SCS Software",0.5379996362955353,0.5379996362955353,Other
+"developer_publisher__publisher_Viva Media,Viva Media",-0.536077619868749,0.536077619868749,Other
+"developer_publisher__publisher_H2 Interactive Co., Ltd.,H2 Interactive Co., Ltd.",0.5350468165074415,0.5350468165074415,Other
+"developer_publisher__publisher_Crisp App Studio,Crisp App Studio",-0.5347999231605693,0.5347999231605693,Other
+developer_publisher__developer_Wonderbox Games,-0.5335351492594278,0.5335351492594278,Other
+"developer_publisher__publisher_Wonderbox Games,Wonderbox Games",-0.5335351492594278,0.5335351492594278,Other
+"developer_publisher__developer_CREATIVE ASSEMBLY,Feral Interactive (Mac),Feral Interactive (Linux)",0.5331105540756134,0.5331105540756134,Other
+"developer_publisher__developer_PopCap Games, Inc.",0.527293434473035,0.527293434473035,Other
+developer_publisher__developer_Red Dolphin Games,-0.5261375922015459,0.5261375922015459,Other
+"developer_publisher__publisher_Siberian Digital,Siberian Digital",0.5243072421390398,0.5243072421390398,Other
+"developer_publisher__publisher_HIKARI FIELD,HIKARI FIELD",0.5230121704340552,0.5230121704340552,Other
+developer_publisher__developer_EXOR Studios,0.517961194263893,0.517961194263893,Other
+developer_publisher__developer_Bethesda Game Studios,0.5153107124628202,0.5153107124628202,Other
+genres__genre_casual,-0.5137212722718832,0.5137212722718832,Other
+"developer_publisher__publisher_Black Shell Media,Black Shell Media",-0.5136460311373193,0.5136460311373193,Other
+developer_publisher__developer_Haemimont Games,-0.5127418693950312,0.5127418693950312,Other
+"developer_publisher__publisher_Konstructors Entertainment,Konstructors Entertainment",0.5104340789791867,0.5104340789791867,Other
+"developer_publisher__publisher_Ghost_RUS Games,Ghost_RUS Games",-0.507480896206755,0.507480896206755,Other
+"developer_publisher__developer_Nikita ""Ghost_RUS""",-0.507480896206755,0.507480896206755,Other
+developer_publisher__developer_Clarus Victoria,0.5074465056279358,0.5074465056279358,Other
+"developer_publisher__publisher_Clarus Victoria,Clarus Victoria",0.5074465056279358,0.5074465056279358,Other
+"developer_publisher__publisher_Wastelands Interactive,Wastelands Interactive",-0.5055269681460984,0.5055269681460984,Other
+developer_publisher__developer_ACE Team,0.5045882028663777,0.5045882028663777,Other
+tags__tag_shooter,0.504000332492748,0.504000332492748,Other
+developer_publisher__developer_Flying Wild Hog,-0.5033079882242876,0.5033079882242876,Other
+"developer_publisher__publisher_Wadjet Eye Games,Wadjet Eye Games",0.5025016355999056,0.5025016355999056,Other
+developer_publisher__developer_Alawar Entertainment,-0.4936406547689207,0.4936406547689207,Other
+"developer_publisher__publisher_Kalypso Media Digital,Kalypso Media Digital",0.4932929832561985,0.4932929832561985,Other
+"developer_publisher__publisher_Zoo Corporation,Zoo Corporation",0.49267844280230433,0.49267844280230433,Other
+developer_publisher__developer_Straywire,-0.4900221935297648,0.4900221935297648,Other
+developer_publisher__developer_City Interactive S.A.,-0.4900166216913134,0.4900166216913134,Other
+"developer_publisher__publisher_City Interactive S.A.,City Interactive S.A.",-0.4900166216913134,0.4900166216913134,Other
+"developer_publisher__publisher_Digerati,Digerati",-0.48976083090515055,0.48976083090515055,Other
+developer_publisher__developer_Avalanche Studios,-0.4892419550210611,0.4892419550210611,Other
+developer_publisher__developer_Zen Studios,0.48585191164042013,0.48585191164042013,Other
+"developer_publisher__developer_Sledgehammer Games,Raven Software",-0.48579255637898583,0.48579255637898583,Other
+developer_publisher__developer_DRUNKEN APES,-0.48561761202473747,0.48561761202473747,Other
+"developer_publisher__publisher_DRUNKEN APES,DRUNKEN APES",-0.48561761202473747,0.48561761202473747,Other
+developer_publisher__developer_Tripwire Interactive,-0.4825891237098938,0.4825891237098938,Other
+developer_publisher__developer_Dovetail Games,-0.4808394830975168,0.4808394830975168,Other
+"developer_publisher__publisher_Topware Interactive,Topware Interactive",0.48079610773119813,0.48079610773119813,Other
+"developer_publisher__publisher_Choice of Games,Choice of Games",-0.4774197465662497,0.4774197465662497,Other
+developer_publisher__developer_Choice of Games,-0.4774197465662497,0.4774197465662497,Other
+"developer_publisher__developer_SNK CORPORATION,DotEmu",-0.47702121150831484,0.47702121150831484,Other
+"developer_publisher__publisher_KOEI TECMO GAMES CO., LTD.,KOEI TECMO GAMES CO., LTD.",0.47677646430835696,0.47677646430835696,Other
+"developer_publisher__publisher_Paradox Interactive,Paradox Interactive",0.4766396611714168,0.4766396611714168,Other
+"developer_publisher__publisher_Image & Form Games,Image & Form Games",0.4760859713954614,0.4760859713954614,Other
+developer_publisher__developer_KAGAMI WORKs,-0.47057086978125545,0.47057086978125545,Other
+"developer_publisher__publisher_EXOR Studios,EXOR Studios",0.4704294722613149,0.4704294722613149,Other
+developer_publisher__developer_Fantasy Flight Games,0.4703103135851581,0.4703103135851581,Other
+developer_publisher__developer_CREATIVE ASSEMBLY,0.46768383786633244,0.46768383786633244,Other
+developer_publisher__developer_Techland,0.4649407569643021,0.4649407569643021,Other
+developer_publisher__developer_Daybreak Game Company,-0.4635217647760008,0.4635217647760008,Other
+developer_publisher__developer_Astronomic Games,-0.461521869198715,0.461521869198715,Other
+developer_publisher__developer_weltenbauer. Software Entwicklung GmbH,-0.4614051684263602,0.4614051684263602,Other
+genres__genre_strategy,-0.46103902396847346,0.46103902396847346,Other
+"developer_publisher__publisher_2K,Aspyr (Mac),Aspyr (Linux),2K,Aspyr (Mac),Aspyr (Linux)",0.4582672595079269,0.4582672595079269,Other
+"developer_publisher__publisher_Kasedo Games,Kasedo Games",0.45608429684526747,0.45608429684526747,Other
+developer_publisher__developer_KT Racing,0.45583370133795376,0.45583370133795376,Other
+developer_publisher__developer_ARTDINK,-0.4552346772793541,0.4552346772793541,Other
+"developer_publisher__publisher_Qumaron,Qumaron",-0.4543303129086928,0.4543303129086928,Other
+"developer_publisher__publisher_tinyBuild,tinyBuild",0.45315897827510676,0.45315897827510676,Other
+developer_publisher__developer_Nickervision Studios,0.4521611743108741,0.4521611743108741,Other
+developer_publisher__developer_HeR Interactive,-0.45206312026187434,0.45206312026187434,Other
+"developer_publisher__publisher_Eversim,Eversim",0.4464192551298954,0.4464192551298954,Other
+"developer_publisher__publisher_Team17 Digital Ltd,Team17 Digital Ltd",0.4454116429718036,0.4454116429718036,Other
+developer_publisher__developer_Graviteam,-0.4435744078251351,0.4435744078251351,Other
+"developer_publisher__developer_Idea Factory,Compile Heart",-0.441416917469363,0.441416917469363,Other
+"developer_publisher__publisher_Casual.US,Casual.US",-0.4411493825825361,0.4411493825825361,Other
+developer_publisher__developer_Thomson Interactive,-0.4379892932233594,0.4379892932233594,Other
+"developer_publisher__publisher_Rockstar Games,Rockstar Games",0.43793408453044486,0.43793408453044486,Other
+"developer_publisher__publisher_UL,UL",-0.43391751085284364,0.43391751085284364,Other
+developer_publisher__developer_UL,-0.43391751085284364,0.43391751085284364,Other
+"developer_publisher__publisher_PsychoFlux Entertainment,PsychoFlux Entertainment",-0.43219619698258405,0.43219619698258405,Other
+"developer_publisher__publisher_Merge Games,Merge Games",-0.43084880573753165,0.43084880573753165,Other
+"developer_publisher__publisher_Walter Machado,Walter Machado",0.4285925423897561,0.4285925423897561,Other
+developer_publisher__developer_Ubisoft,-0.42644541366413635,0.42644541366413635,Other
+"developer_publisher__publisher_Chucklefish,Chucklefish",0.42448904022625555,0.42448904022625555,Other
+"developer_publisher__publisher_Orangepixel,Orangepixel",-0.42398451428907546,0.42398451428907546,Other
+developer_publisher__developer_Orangepixel,-0.42398451428907546,0.42398451428907546,Other
+developer_publisher__developer_Trion Worlds,-0.4201451858308756,0.4201451858308756,Other
+developer_publisher__developer_Gogii Games,-0.4191007711138613,0.4191007711138613,Other
+"developer_publisher__publisher_Eagle Dynamics SA,Eagle Dynamics SA",-0.4172907940163813,0.4172907940163813,Other
+"developer_publisher__publisher_Focus Home Interactive,Focus Home Interactive",0.41560821281295507,0.41560821281295507,Other
+"developer_publisher__publisher_Konami Digital Entertainment,Konami Digital Entertainment",0.4112449752014473,0.4112449752014473,Other
+developer_publisher__developer_Dnovel,-0.41011021600005704,0.41011021600005704,Other
+"developer_publisher__publisher_Dnovel,Dnovel",-0.41011021600005704,0.41011021600005704,Other
+numeric__achievements_missing,-0.4099443768655303,0.4099443768655303,Other
+"developer_publisher__publisher_Kongregate,Kongregate",0.4098460846954717,0.4098460846954717,Other
+"developer_publisher__publisher_PQube Limited,PQube Limited",0.40947759421627017,0.40947759421627017,Other
+"developer_publisher__publisher_Phoenix Online Publishing,Phoenix Online Publishing",-0.4086897633807017,0.4086897633807017,Other
+"developer_publisher__publisher_Toplitz Productions,Toplitz Productions",0.40683772150249287,0.40683772150249287,Other
+"developer_publisher__publisher_Enjoy Games,Enjoy Games",-0.40297188385314314,0.40297188385314314,Other
+developer_publisher__developer_Harebrained Schemes,0.4012020979262655,0.4012020979262655,Other
+developer_publisher__developer_id Software,-0.400013342576599,0.400013342576599,Other
+"developer_publisher__publisher_PlayFirst,PlayFirst",-0.3980382601386056,0.3980382601386056,Other
+developer_publisher__developer_Racing Bros,0.39363004396011236,0.39363004396011236,Other
+"developer_publisher__publisher_Microids Indie,Microids Indie",-0.3931086272696911,0.3931086272696911,Other
+"developer_publisher__publisher_Trion Worlds,Trion Worlds",-0.3921172891499337,0.3921172891499337,Other
+"developer_publisher__publisher_Bitlock Studio,Bitlock Studio",-0.39201775424658075,0.39201775424658075,Other
+developer_publisher__developer_Walter Machado,0.3907017230951223,0.3907017230951223,Other
+tags__tag_simulation,0.3899202957195004,0.3899202957195004,Other
+"developer_publisher__publisher_THQ Nordic,THQ Nordic",0.38262550374622034,0.38262550374622034,Other
+"developer_publisher__publisher_NIS America, Inc.,NIS America, Inc.",0.3813070043349214,0.3813070043349214,Other
+developer_publisher__developer_Frontier Developments,-0.3802626367158973,0.3802626367158973,Other
+developer_publisher__developer_MAGES. Inc.,-0.379569325549573,0.379569325549573,Other
+developer_publisher__developer_Ninja Theory,0.37772591306630476,0.37772591306630476,Other
+developer_publisher__developer_Pixeljam,-0.37757543629298046,0.37757543629298046,Other
+developer_publisher__developer_Positech Games,0.3757090222889947,0.3757090222889947,Other
+"developer_publisher__developer_Crystal Dynamics,Eidos-Montréal,Feral Interactive (Mac),Feral Interactive (Linux)",-0.37297273116140894,0.37297273116140894,Other
+developer_publisher__developer_Eagle Dynamics SA,-0.3705466253152954,0.3705466253152954,Other
+"developer_publisher__publisher_Excalibur Publishing,Excalibur Publishing",-0.3698605982872313,0.3698605982872313,Other
+"developer_publisher__publisher_Arc System Works,Arc System Works",-0.369168188444004,0.369168188444004,Other
+"developer_publisher__publisher_Nicalis, Inc.,Nicalis, Inc.",0.3687852099489154,0.3687852099489154,Other
+developer_publisher__developer_Milestone S.r.l.,0.36383346683548645,0.36383346683548645,Other
+"developer_publisher__publisher_10tons Ltd,10tons Ltd",-0.3619825055652435,0.3619825055652435,Other
+"developer_publisher__publisher_Iceberg Interactive,Iceberg Interactive",0.36010213391243506,0.36010213391243506,Other
+"developer_publisher__publisher_Meridian4,Meridian4",-0.35924192486604034,0.35924192486604034,Other
+"developer_publisher__publisher_Big Ant Studios,Big Ant Studios",-0.3587407044348953,0.3587407044348953,Other
+"developer_publisher__publisher_Forever Entertainment S. A.,Forever Entertainment S. A.",0.35868097074929783,0.35868097074929783,Other
+"developer_publisher__developer_Monolith Productions, Inc.,Feral Interactive (Mac),Feral Interactive (Linux)",0.35459838220544077,0.35459838220544077,Other
+"developer_publisher__publisher_FireFly Studios,FireFly Studios",-0.35273407970984055,0.35273407970984055,Other
+developer_publisher__developer_FireFly Studios,-0.35273407970984055,0.35273407970984055,Other
+tags__tag_casual,0.3523559690202135,0.3523559690202135,Other
+developer_publisher__developer_BetaDwarf,0.35052402004808064,0.35052402004808064,Other
+developer_publisher__developer_Volition,-0.3493472928894274,0.3493472928894274,Other
+"developer_publisher__publisher_Zotdinex,Zotdinex",-0.34909934368379386,0.34909934368379386,Other
+developer_publisher__developer_Creobit,-0.34828246970151283,0.34828246970151283,Other
+"developer_publisher__publisher_W.T.B.,W.T.B.",-0.34251254060178915,0.34251254060178915,Other
+"developer_publisher__publisher_PlayWay S.A.,PlayWay S.A.",0.34034761706310634,0.34034761706310634,Other
+developer_publisher__developer_Daedalic Entertainment,0.33941657619246196,0.33941657619246196,Other
+developer_publisher__developer_Arrowhead Game Studios,-0.3376894112357576,0.3376894112357576,Other
+"developer_publisher__publisher_Libredia,Libredia",-0.3373023283530443,0.3373023283530443,Other
+"developer_publisher__developer_KOEI TECMO GAMES CO., LTD.",0.33397510403915187,0.33397510403915187,Other
+developer_publisher__developer_Digitalmindsoft,-0.3295799845748486,0.3295799845748486,Other
+"developer_publisher__publisher_Dagestan Technology,Dagestan Technology",-0.32778632811691805,0.32778632811691805,Other
+"developer_publisher__publisher_Silver Cow Studio,Silver Cow Studio",-0.32470897937872384,0.32470897937872384,Other
+developer_publisher__developer_Silver Cow Studio,-0.32470897937872384,0.32470897937872384,Other
+developer_publisher__developer_SCS Software,0.3242570650529795,0.3242570650529795,Other
+"developer_publisher__publisher_Microids,Microids",-0.322723147527099,0.322723147527099,Other
+"developer_publisher__publisher_Gameforge 4D GmbH,Gameforge 4D GmbH",-0.3223015036887709,0.3223015036887709,Other
+"developer_publisher__publisher_HexWar Games,HexWar Games",-0.3208460888618078,0.3208460888618078,Other
+"developer_publisher__publisher_The Fighter Collection,The Fighter Collection",-0.3206920624046662,0.3206920624046662,Other
+"developer_publisher__publisher_The Irregular Corporation,The Irregular Corporation",0.31825217071658174,0.31825217071658174,Other
+developer_publisher__developer_Eversim,0.3169491427645333,0.3169491427645333,Other
+developer_publisher__developer_InvertMouse,-0.3132574715881564,0.3132574715881564,Other
+"developer_publisher__publisher_InvertMouse,InvertMouse",-0.3132574715881564,0.3132574715881564,Other
+developer_publisher__developer_Saber Interactive,-0.31274302155828665,0.31274302155828665,Other
+"developer_publisher__developer_Treyarch,Aspyr (Mac)",0.31259185039268284,0.31259185039268284,Other
+"developer_publisher__publisher_KishMish Games,KishMish Games",-0.3123922761295894,0.3123922761295894,Other
+"developer_publisher__publisher_NedoStudio,NedoStudio",-0.3122716700821503,0.3122716700821503,Other
+"developer_publisher__publisher_Just1337 Publisher,Just1337 Publisher",-0.31222799963770326,0.31222799963770326,Other
+developer_publisher__developer_Just1337 Studio,-0.31222799963770326,0.31222799963770326,Other
+developer_publisher__developer_Nadeo,-0.3105758896601622,0.3105758896601622,Other
+genres__genre_adventure,-0.3079613148128242,0.3079613148128242,Other
+developer_publisher__developer_Deep Silver Volition,-0.30667456751341915,0.30667456751341915,Other
+developer_publisher__developer_Big Ant Studios,-0.30658072969862815,0.30658072969862815,Other
+developer_publisher__developer_Gearbox Software,-0.30611699611208065,0.30611699611208065,Other
+developer_publisher__developer_JoyBits Ltd.,0.3060565703406196,0.3060565703406196,Other
+"developer_publisher__publisher_Buka Entertainment,Buka Entertainment",-0.305072483793088,0.305072483793088,Other
+"developer_publisher__publisher_Activision,Aspyr (Mac),Activision,Aspyr (Mac)",0.3048293922671478,0.3048293922671478,Other
+developer_publisher__developer_Milkstone Studios,0.304170485208462,0.304170485208462,Other
+developer_publisher__developer_Pilgrim Adventures,-0.3019565853740246,0.3019565853740246,Other
+"developer_publisher__publisher_astragon Entertainment,astragon Entertainment",-0.3011271148685405,0.3011271148685405,Other
+developer_publisher__developer_CSM,-0.30025403007142326,0.30025403007142326,Other
+"developer_publisher__publisher_For Kids,For Kids",-0.29729275881589606,0.29729275881589606,Other
+developer_publisher__developer_For Kids,-0.29729275881589606,0.29729275881589606,Other
+"developer_publisher__publisher_CI Games,CI Games",-0.29610002002882047,0.29610002002882047,Other
+developer_publisher__developer_Rebellion,-0.2955194347975082,0.2955194347975082,Other
+developer_publisher__developer_Anatoliy Loginovskikh,-0.29542952308887005,0.29542952308887005,Other
+developer_publisher__developer_Rocksteady Studios,0.294036718582809,0.294036718582809,Other
+"developer_publisher__publisher_Tero Lunkka,Tero Lunkka",-0.2931391113541032,0.2931391113541032,Other
+"developer_publisher__publisher_MY.GAMES,MY.GAMES",0.2912597233940297,0.2912597233940297,Other
+developer_publisher__developer_John Wizard,-0.28995929632859263,0.28995929632859263,Other
+developer_publisher__developer_Snkl Studio,-0.28662904600616623,0.28662904600616623,Other
+"developer_publisher__publisher_Snkl Studio,Snkl Studio",-0.28662904600616623,0.28662904600616623,Other
+"developer_publisher__publisher_Valkyrie Initiative,Valkyrie Initiative",-0.2863469512369962,0.2863469512369962,Other
+developer_publisher__developer_Totem Games,-0.2862676667577648,0.2862676667577648,Other
+developer_publisher__developer_SpinTop Games,-0.2832887488175754,0.2832887488175754,Other
+"developer_publisher__publisher_Fatshark,Fatshark",0.28256018591242776,0.28256018591242776,Other
+developer_publisher__developer_FeelThere,-0.2824227225529276,0.2824227225529276,Other
+developer_publisher__developer_Last Day of Work,-0.2782313072663292,0.2782313072663292,Other
+"developer_publisher__publisher_Last Day of Work,Last Day of Work",-0.2782313072663292,0.2782313072663292,Other
+"developer_publisher__publisher_Winged Cloud,Winged Cloud",0.2781299537799918,0.2781299537799918,Other
+developer_publisher__developer_Winged Cloud,0.2781299537799918,0.2781299537799918,Other
+"developer_publisher__publisher_Starbreeze Publishing AB,Starbreeze Publishing AB",-0.27659822270565326,0.27659822270565326,Other
+developer_publisher__developer_SimProse Studios,-0.27443628056902886,0.27443628056902886,Other
+"developer_publisher__publisher_Dear Villagers,Dear Villagers",-0.27366370513803406,0.27366370513803406,Other
+"developer_publisher__publisher_SQUARE ENIX, Eidos Interactive,SQUARE ENIX, Eidos Interactive",-0.2723680425332616,0.2723680425332616,Other
+"developer_publisher__publisher_Electronic Arts,Electronic Arts",0.2718658163732773,0.2718658163732773,Other
+"developer_publisher__publisher_Strategy First,Strategy First",-0.2680337477834405,0.2680337477834405,Other
+"developer_publisher__publisher_Tranquility games,Tranquility games",0.2643753871254753,0.2643753871254753,Other
+developer_publisher__developer_CUTE ANIME GIRLS,0.2643753871254753,0.2643753871254753,Other
+developer_publisher__developer_GSC Game World,0.2641215046959133,0.2641215046959133,Other
+numeric__original_price,0.25973762042725634,0.25973762042725634,Other
+"developer_publisher__publisher_BANDAI NAMCO Entertainment,BANDAI NAMCO Entertainment",0.2588481141361961,0.2588481141361961,Other
+developer_publisher__developer_Nihon Falcom,0.2574574352131112,0.2574574352131112,Other
+developer_publisher__developer_Realmforge Studios,-0.2571445078911551,0.2571445078911551,Other
+"developer_publisher__publisher_John Wizard,John Wizard",-0.25586381613119585,0.25586381613119585,Other
+developer_publisher__developer_1C Entertainment,-0.25527145083401587,0.25527145083401587,Other
+"developer_publisher__publisher_KISS ltd,KISS ltd",-0.25360268269906927,0.25360268269906927,Other
+developer_publisher__developer_WayForward,0.2522434576741429,0.2522434576741429,Other
+developer_publisher__developer_BANDAI NAMCO Studio Inc.,-0.2519915235848301,0.2519915235848301,Other
+"developer_publisher__developer_INTI CREATES CO., LTD.",0.2510463219652414,0.2510463219652414,Other
+"developer_publisher__publisher_Nyu Media,Nyu Media",0.25026106115003244,0.25026106115003244,Other
+developer_publisher__developer_Remedy Entertainment,0.24772982853774428,0.24772982853774428,Other
+developer_publisher__developer_Unknown,0.2475177052065738,0.2475177052065738,Other
+developer_publisher__developer_Nicolas Bernard,-0.24736417193014926,0.24736417193014926,Other
+"developer_publisher__publisher_Droid Riot,Droid Riot",-0.24736039494311593,0.24736039494311593,Other
+"developer_publisher__publisher_CFK Co., Ltd.,CFK Co., Ltd.",-0.24655749766527954,0.24655749766527954,Other
+"developer_publisher__developer_CFK Co., Ltd.",-0.24655749766527954,0.24655749766527954,Other
+"developer_publisher__publisher_Degica,Degica",-0.24592700403076304,0.24592700403076304,Other
+"developer_publisher__publisher_AYE Technology,AYE Technology",-0.2443328443133978,0.2443328443133978,Other
+"developer_publisher__publisher_Rooster Teeth Games,Rooster Teeth Games",-0.2441256056768352,0.2441256056768352,Other
+developer_publisher__developer_Longbow Games,-0.24358442664230262,0.24358442664230262,Other
+"developer_publisher__publisher_Vertigo Games,Vertigo Games",-0.2413580201592508,0.2413580201592508,Other
+developer_publisher__developer_Digital Confectioners,0.2412325968822625,0.2412325968822625,Other
+"developer_publisher__publisher_BattleGoat Studios,BattleGoat Studios",-0.23988328055235858,0.23988328055235858,Other
+developer_publisher__developer_BattleGoat Studios,-0.23988328055235858,0.23988328055235858,Other
+developer_publisher__developer_КиКо,-0.23916661043217807,0.23916661043217807,Other
+developer_publisher__developer_Love in Space,0.2384012417271737,0.2384012417271737,Other
+"developer_publisher__publisher_SEGA,Feral Interactive (Mac),Feral Interactive (Linux),SEGA,Feral Interactive (Mac),Feral Interactive (Linux)",-0.23694400810701458,0.23694400810701458,Other
+"developer_publisher__developer_CyberConnect2 Co., Ltd.",-0.23619687492291289,0.23619687492291289,Other
+"developer_publisher__publisher_New Reality Games,New Reality Games",0.23545901671803546,0.23545901671803546,Other
+developer_publisher__developer_Vyacheslav Shilikhin,-0.23459355536310972,0.23459355536310972,Other
+"developer_publisher__publisher_Vyacheslav Shilikhin,Vyacheslav Shilikhin",-0.23459355536310972,0.23459355536310972,Other
+"developer_publisher__publisher_Frogwares,Frogwares",-0.23399799050400333,0.23399799050400333,Other
+"developer_publisher__publisher_Hyper Hippo Games,Hyper Hippo Games",0.23266026165487855,0.23266026165487855,Other
+developer_publisher__developer_Hyper Hippo Games,0.23266026165487855,0.23266026165487855,Other
+"developer_publisher__publisher_ANPA.US,ANPA.US",-0.23245003893597524,0.23245003893597524,Other
+"developer_publisher__publisher_Coffee Stain Publishing,Coffee Stain Publishing",0.2318751621007556,0.2318751621007556,Other
+"developer_publisher__publisher_Narko Games,Narko Games",-0.23174553607100695,0.23174553607100695,Other
+developer_publisher__developer_Virtual Top,-0.2288694285413991,0.2288694285413991,Other
+developer_publisher__developer_Realore,-0.22695351123739918,0.22695351123739918,Other
+developer_publisher__developer_Fatshark,0.22662433966322998,0.22662433966322998,Other
+"developer_publisher__publisher_Activision,Activision",-0.2262359527810174,0.2262359527810174,Other
+"developer_publisher__publisher_CD PROJEKT RED,CD PROJEKT RED",0.22503592287252389,0.22503592287252389,Other
+"developer_publisher__publisher_Garage Games,Garage Games",-0.22278980519445812,0.22278980519445812,Other
+"developer_publisher__publisher_Endless Loop Studios,Endless Loop Studios",0.2224236191481651,0.2224236191481651,Other
+developer_publisher__developer_Endless Loop Studios,0.2224236191481651,0.2224236191481651,Other
+developer_publisher__developer_Cateia Games,-0.22176309937053856,0.22176309937053856,Other
+developer_publisher__developer_Ronimo Games,-0.22044016734018956,0.22044016734018956,Other
+developer_publisher__developer_Warfare Studios,-0.22029954530653667,0.22029954530653667,Other
+developer_publisher__developer_ToastieLabs,0.2196617438858252,0.2196617438858252,Other
+"developer_publisher__publisher_League of Geeks,League of Geeks",-0.21774699112669524,0.21774699112669524,Other
+developer_publisher__developer_League of Geeks,-0.21774699112669524,0.21774699112669524,Other
+developer_publisher__developer_NedoStudio,-0.21520685831423988,0.21520685831423988,Other
+developer_publisher__developer_Ubisoft San Francisco,-0.21516068117184306,0.21516068117184306,Other
+"developer_publisher__publisher_Funcom,Funcom",0.21329945188121602,0.21329945188121602,Other
+"developer_publisher__publisher_Best Way Soft,Best Way Soft",-0.21266668680770198,0.21266668680770198,Other
+developer_publisher__developer_Great War Team,-0.21266668680770198,0.21266668680770198,Other
+developer_publisher__developer_Ankama Studio,-0.21089031710638126,0.21089031710638126,Other
+"developer_publisher__developer_What Pumpkin Games, Inc.",0.2105463381040564,0.2105463381040564,Other
+"developer_publisher__publisher_What Pumpkin Games, Inc.,What Pumpkin Games, Inc.",0.2105463381040564,0.2105463381040564,Other
+"developer_publisher__publisher_PlayStation Mobile Inc.,PlayStation Mobile Inc.",-0.20934813542291456,0.20934813542291456,Other
+developer_publisher__developer_Vile Monarch,0.20725485373022917,0.20725485373022917,Other
+developer_publisher__developer_Keen Software House,0.20349552940328508,0.20349552940328508,Other
+developer_publisher__developer_Coffee Stain Studios,0.20252421191488995,0.20252421191488995,Other
+developer_publisher__developer_Gaijin Entertainment,-0.2005978658153597,0.2005978658153597,Other
+"developer_publisher__publisher_Deep Silver,Deep Silver",0.19773188750622692,0.19773188750622692,Other
+"developer_publisher__publisher_b-alive gmbh,b-alive gmbh",-0.1970952423372603,0.1970952423372603,Other
+developer_publisher__developer_b-alive gmbh,-0.1970952423372603,0.1970952423372603,Other
+developer_publisher__developer_Capybara Games,0.1908872190917896,0.1908872190917896,Other
+"developer_publisher__publisher_Bigben Interactive,Bigben Interactive",0.18860937330427044,0.18860937330427044,Other
+"developer_publisher__publisher_GameHouse,GameHouse",-0.1883512172467607,0.1883512172467607,Other
+"developer_publisher__publisher_TaleWorlds Entertainment,TaleWorlds Entertainment",0.18764422865914326,0.18764422865914326,Other
+developer_publisher__developer_KING Art,-0.18653437925627128,0.18653437925627128,Other
+"developer_publisher__publisher_JoyBits Ltd.,JoyBits Ltd.",0.1861463570419456,0.1861463570419456,Other
+"developer_publisher__publisher_XSEED Games,Marvelous USA, Inc.,XSEED Games,Marvelous USA, Inc.",0.18435297157527927,0.18435297157527927,Other
+"developer_publisher__publisher_Cleverweek,Cleverweek",-0.18409621532181603,0.18409621532181603,Other
+developer_publisher__developer_Cleverweek,-0.18409621532181603,0.18409621532181603,Other
+developer_publisher__release_era_2014-2016,0.183506202216985,0.183506202216985,Other
+developer_publisher__developer_Nival,0.18220605811416704,0.18220605811416704,Other
+"developer_publisher__publisher_MangaGamer,MangaGamer",-0.18115696088680236,0.18115696088680236,Other
+"developer_publisher__publisher_Atari,Atari",-0.1807304334636981,0.1807304334636981,Other
+developer_publisher__publisher_infrequent_sklearn,-0.17890188077316269,0.17890188077316269,Other
+"developer_publisher__publisher_Tripwire Interactive,Tripwire Interactive",-0.17849593009772538,0.17849593009772538,Other
+"developer_publisher__publisher_Ankama Games,Ankama Games",-0.17697607986869632,0.17697607986869632,Other
+"developer_publisher__publisher_Giants Software,Giants Software",-0.17641241843096767,0.17641241843096767,Other
+"developer_publisher__publisher_Milestone S.r.l.,Milestone S.r.l.",-0.17494065290652486,0.17494065290652486,Other
+"developer_publisher__developer_Jetdogs Studios,Zoom Out Games",-0.17408079667890644,0.17408079667890644,Other
+developer_publisher__developer_Narko Games,-0.17387985884228188,0.17387985884228188,Other
+genres__genre_rpg,-0.17377344579065648,0.17377344579065648,Other
+"developer_publisher__publisher_PopCap Games, Inc.,PopCap Games, Inc.",0.1725465971771067,0.1725465971771067,Other
+developer_publisher__developer_SharkGame,-0.17154498137960558,0.17154498137960558,Other
+"developer_publisher__publisher_WB Games,Feral Interactive (Mac),Feral Interactive (Linux),WB Games,Feral Interactive (Mac),Feral Interactive (Linux)",0.16702840109087685,0.16702840109087685,Other
+genres__genre_sports,-0.16684532539673017,0.16684532539673017,Other
+"developer_publisher__publisher_K Bros Games,K Bros Games",0.16525567937570362,0.16525567937570362,Other
+"developer_publisher__publisher_Telltale Games,Telltale Games",-0.16281507644485851,0.16281507644485851,Other
+developer_publisher__developer_Aerosoft GmbH,-0.16252683066892554,0.16252683066892554,Other
+developer_publisher__developer_EHTechnology,-0.16168012696493128,0.16168012696493128,Other
+developer_publisher__developer_CI Games,-0.16161006082363882,0.16161006082363882,Other
+developer_publisher__developer_Cyanide Studios,-0.16114349765750519,0.16114349765750519,Other
+developer_publisher__developer_Phr00t's Software,-0.1609779741349075,0.1609779741349075,Other
+"developer_publisher__publisher_Phr00t's Software,Phr00t's Software",-0.1609779741349075,0.1609779741349075,Other
+"developer_publisher__publisher_INTI CREATES CO., LTD.,INTI CREATES CO., LTD.",0.1602534306768954,0.1602534306768954,Other
+developer_publisher__developer_NeocoreGames,-0.16016203307336982,0.16016203307336982,Other
+developer_publisher__developer_Owlchemy Labs,-0.1597849894574185,0.1597849894574185,Other
+"developer_publisher__publisher_Hi-Rez Studios,Hi-Rez Studios",0.15941195585695198,0.15941195585695198,Other
+genres__genre_early_access,0.15929276398168493,0.15929276398168493,Other
+developer_publisher__developer_Home Net Games,0.15435637629464263,0.15435637629464263,Other
+"developer_publisher__publisher_Home Net Games,Home Net Games",0.15435637629464263,0.15435637629464263,Other
+developer_publisher__developer_Jutsu Games,0.1527408804831583,0.1527408804831583,Other
+"developer_publisher__publisher_NeocoreGames,NeocoreGames",0.1514913640892944,0.1514913640892944,Other
+"developer_publisher__publisher_Firehawk Studios,Firehawk Studios",0.15144312042368113,0.15144312042368113,Other
+"developer_publisher__publisher_N3V Games,N3V Games",-0.15029752659264053,0.15029752659264053,Other
+"developer_publisher__publisher_Nickervision Studios,Nickervision Studios",0.14680491378434338,0.14680491378434338,Other
+developer_publisher__developer_Sapphire Dragon Productions,-0.14266945022342373,0.14266945022342373,Other
+"developer_publisher__publisher_Sapphire Dragon Productions,Sapphire Dragon Productions",-0.14266945022342373,0.14266945022342373,Other
+"developer_publisher__publisher_Peace,Peace",-0.14241620509000025,0.14241620509000025,Other
+developer_publisher__developer_Peace,-0.14241620509000025,0.14241620509000025,Other
+"developer_publisher__developer_Codemasters Racing,Feral Interactive (Mac),Feral Interactive (Linux)",-0.1388581448528752,0.1388581448528752,Other
+developer_publisher__developer_Image & Form Games,0.1386879634875801,0.1386879634875801,Other
+"developer_publisher__publisher_Choice Provisions,Choice Provisions",0.13717139710499954,0.13717139710499954,Other
+"developer_publisher__developer_NetherRealm Studios,QLOC",0.13471290891329715,0.13471290891329715,Other
+developer_publisher__developer_G. Malta,-0.13400552308407976,0.13400552308407976,Other
+"developer_publisher__publisher_VRS,VRS",-0.13400552308407976,0.13400552308407976,Other
+developer_publisher__developer_Dexion Games,-0.13385946269138552,0.13385946269138552,Other
+"developer_publisher__publisher_Dexion Games,Dexion Games",-0.13385946269138552,0.13385946269138552,Other
+"developer_publisher__publisher_ZOV GAME STUDIO,ZOV GAME STUDIO",-0.1334460574004802,0.1334460574004802,Other
+developer_publisher__developer_ZOV GAME STUDIO,-0.1334460574004802,0.1334460574004802,Other
+"developer_publisher__publisher_1C Entertainment,1C Entertainment",0.13242896690944964,0.13242896690944964,Other
+developer_publisher__developer_Microids,0.13171891451043405,0.13171891451043405,Other
+developer_publisher__developer_infrequent_sklearn,0.1304209821127726,0.1304209821127726,Other
+"developer_publisher__developer_Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios",-0.12975691082146415,0.12975691082146415,Other
+developer_publisher__developer_Beamdog,0.1272246132560463,0.1272246132560463,Other
+"developer_publisher__publisher_Beamdog,Beamdog",0.1272246132560463,0.1272246132560463,Other
+"developer_publisher__publisher_Excalibur Games,Excalibur Games",0.1250925294421768,0.1250925294421768,Other
+"developer_publisher__publisher_EHTechnology,EHTechnology",-0.1245774728746449,0.1245774728746449,Other
+"developer_publisher__publisher_Bmc Studio,Bmc Studio",0.12371521523253386,0.12371521523253386,Other
+developer_publisher__developer_Bmc Studio,0.12371521523253386,0.12371521523253386,Other
+"developer_publisher__publisher_ebi-hime,ebi-hime",0.12351682762492981,0.12351682762492981,Other
+developer_publisher__developer_ebi-hime,0.12351682762492981,0.12351682762492981,Other
+"developer_publisher__publisher_Armor Games Studios,Armor Games Studios",-0.12342889841367535,0.12342889841367535,Other
+"developer_publisher__publisher_Rebellion,Rebellion",0.12042568756821663,0.12042568756821663,Other
+developer_publisher__developer_Zloy Krot Studio,-0.11920236263715947,0.11920236263715947,Other
+"developer_publisher__publisher_Daybreak Game Company,Daybreak Game Company",0.11918933061104148,0.11918933061104148,Other
+numeric__is_free,0.11853721146744789,0.11853721146744789,Other
+developer_publisher__developer_City Interactive,-0.11803397019382995,0.11803397019382995,Other
+developer_publisher__release_era_2011-2013,0.11571742257498732,0.11571742257498732,Other
+developer_publisher__developer_Targem Games,0.1152124760843535,0.1152124760843535,Other
+"developer_publisher__publisher_Positech Games,Positech Games",-0.11487291771848294,0.11487291771848294,Other
+"developer_publisher__publisher_Crew Lab,Crew Lab",0.11327872365176013,0.11327872365176013,Other
+developer_publisher__developer_Crew Lab,0.11327872365176013,0.11327872365176013,Other
+"developer_publisher__publisher_IndieGala,IndieGala",-0.11219110003966612,0.11219110003966612,Other
+developer_publisher__developer_Kite Games,-0.11176723024901222,0.11176723024901222,Other
+"developer_publisher__publisher_Bossa Studios,Bossa Studios",0.1101763821597885,0.1101763821597885,Other
+developer_publisher__developer_Gameloft,-0.1090055974509001,0.1090055974509001,Other
+"developer_publisher__publisher_Gameloft,Gameloft",-0.1090055974509001,0.1090055974509001,Other
+developer_publisher__developer_Relic Entertainment,0.10893299170573922,0.10893299170573922,Other
+developer_publisher__developer_Arkane Studios,0.10888727384158288,0.10888727384158288,Other
+"developer_publisher__publisher_MoeNovel,MoeNovel",-0.10859592419990875,0.10859592419990875,Other
+developer_publisher__developer_MoeNovel,-0.10859592419990875,0.10859592419990875,Other
+developer_publisher__developer_Mihai Morosanu,-0.10846446740116415,0.10846446740116415,Other
+developer_publisher__developer_Primitive Studio,-0.10842359935124445,0.10842359935124445,Other
+"developer_publisher__publisher_Bullid Games,Bullid Games",-0.1079916844859781,0.1079916844859781,Other
+developer_publisher__developer_Bullid Games,-0.1079916844859781,0.1079916844859781,Other
+developer_publisher__developer_Easy game,-0.10664108430125807,0.10664108430125807,Other
+developer_publisher__developer_Game-Labs,-0.10557754559784512,0.10557754559784512,Other
+"developer_publisher__publisher_Game-Labs,Game-Labs",-0.10557754559784512,0.10557754559784512,Other
+developer_publisher__developer_The Artistocrats,0.10224996790861948,0.10224996790861948,Other
+"developer_publisher__developer_Team NINJA,KOEI TECMO GAMES CO., LTD.",-0.10212912614063409,0.10212912614063409,Other
+developer_publisher__developer_KADOKAWA,-0.10204034012486453,0.10204034012486453,Other
+developer_publisher__developer_Frogwares,0.10175806113680345,0.10175806113680345,Other
+"developer_publisher__publisher_Game for people,Game for people",-0.10154212701009058,0.10154212701009058,Other
+developer_publisher__developer_EnsenaSoft,-0.10121108444889555,0.10121108444889555,Other
+"developer_publisher__publisher_EnsenaSoft,EnsenaSoft",-0.10121108444889555,0.10121108444889555,Other
+"developer_publisher__publisher_Konami Digital Entertainment, Inc.,Konami Digital Entertainment, Inc.",-0.10016437275468221,0.10016437275468221,Other
+developer_publisher__developer_Petroglyph,0.09941203550190143,0.09941203550190143,Other
+developer_publisher__developer_Slightly Mad Studios,0.09908709027703454,0.09908709027703454,Other
+developer_publisher__developer_Owlcat Games,0.0950031374010263,0.0950031374010263,Other
+"developer_publisher__publisher_Sometimes You,Sometimes You",-0.09450170370365672,0.09450170370365672,Other
+"developer_publisher__publisher_Black Lime Studio,Black Lime Studio",-0.0939995494737911,0.0939995494737911,Other
+developer_publisher__developer_Black Lime Studio,-0.0939995494737911,0.0939995494737911,Other
+developer_publisher__developer_Stardock Entertainment,-0.09261473039974448,0.09261473039974448,Other
+developer_publisher__developer_Machine Games,0.09221251175069425,0.09221251175069425,Other
+developer_publisher__developer_MAGIX Software GmbH,-0.09133583252166635,0.09133583252166635,Other
+"developer_publisher__publisher_MAGIX Software GmbH,MAGIX Software GmbH",-0.09133583252166635,0.09133583252166635,Other
+"developer_publisher__publisher_HypeTrain Digital,HypeTrain Digital",0.0881997546150908,0.0881997546150908,Other
+developer_publisher__developer_Gaming Minds Studios,-0.08676500085819937,0.08676500085819937,Other
+developer_publisher__developer_Might and Delight,-0.08546450250897826,0.08546450250897826,Other
+tags__tag_sports,0.08485903945463827,0.08485903945463827,Other
+developer_publisher__developer_Eugen Systems,-0.08295951428178563,0.08295951428178563,Other
+"developer_publisher__publisher_Bohemia Interactive,Bohemia Interactive",0.08263265721980585,0.08263265721980585,Other
+developer_publisher__developer_OnSkull Games,0.08179677967425927,0.08179677967425927,Other
+"developer_publisher__publisher_Dharker Studio,Dharker Studio",-0.08010412337189052,0.08010412337189052,Other
+developer_publisher__developer_stillalive studios,-0.07947163913017322,0.07947163913017322,Other
+genres__genre_massively_multiplayer,0.07539510110134683,0.07539510110134683,Other
+developer_publisher__developer_Wadjet Eye Games,-0.07462701571435544,0.07462701571435544,Other
+genres__genre_indie,-0.07210232782540658,0.07210232782540658,Other
+developer_publisher__publisher_Unknown,-0.07032550052664015,0.07032550052664015,Other
+"developer_publisher__publisher_Ronimo Games,Ronimo Games",-0.06614674674355572,0.06614674674355572,Other
+developer_publisher__developer_VIS-Games,-0.06343745151804973,0.06343745151804973,Other
+"developer_publisher__publisher_Krome Studios,Krome Studios",0.06101442071830465,0.06101442071830465,Other
+"developer_publisher__publisher_Idea Factory International, Inc.,IDEA FACTORY Co., Ltd.,Idea Factory International, Inc.,IDEA FACTORY Co., Ltd.",-0.05832232225339019,0.05832232225339019,Other
+"developer_publisher__developer_IDEA FACTORY Co., Ltd.,COMPILE HEART Co., Ltd.,FELISTELLA Co., Ltd.",-0.05832232225339019,0.05832232225339019,Other
+developer_publisher__developer_Just Trains,-0.05775969615334362,0.05775969615334362,Other
+developer_publisher__developer_IPACS,-0.05762977083778479,0.05762977083778479,Other
+developer_publisher__developer_BANDAI NAMCO Studios Inc.,-0.056952283341590894,0.056952283341590894,Other
+"developer_publisher__publisher_Dogenzaka Lab,Dogenzaka Lab",-0.054910006737136224,0.054910006737136224,Other
+developer_publisher__developer_Telltale Games,0.05298355747723172,0.05298355747723172,Other
+developer_publisher__developer_N3V Games,-0.05288417069602604,0.05288417069602604,Other
+developer_publisher__developer_TML-Studios,0.05141812397320762,0.05141812397320762,Other
+developer_publisher__developer_Mommy's Best Games,0.05065420014954903,0.05065420014954903,Other
+"developer_publisher__developer_Nippon Ichi Software, Inc.",0.04956379222967487,0.04956379222967487,Other
+developer_publisher__developer_Sports Interactive,0.0487000931411181,0.0487000931411181,Other
+"developer_publisher__developer_Creative Assembly,Feral Interactive (Mac),Feral Interactive (Linux)",-0.04615921739864786,0.04615921739864786,Other
+"developer_publisher__publisher_N/A,N/A",-0.04512801962947381,0.04512801962947381,Other
+developer_publisher__developer_Holospark,0.04429274319435137,0.04429274319435137,Other
+"developer_publisher__publisher_Holospark,Holospark",0.04429274319435137,0.04429274319435137,Other
+developer_publisher__developer_Frontwing,-0.044276359246811704,0.044276359246811704,Other
+developer_publisher__developer_Funcom,0.042878135375826784,0.042878135375826784,Other
+"developer_publisher__publisher_Stardock Entertainment,Stardock Entertainment",0.04205299528507088,0.04205299528507088,Other
+genres__genre_simulation,0.03978963820926199,0.03978963820926199,Other
+"developer_publisher__developer_Traveller's Tales,TT Games,Feral Interactive (Mac)",0.03824282563804752,0.03824282563804752,Other
+"developer_publisher__developer_Eidos-Montréal,Crystal Dynamics,Nixxes software",-0.037115627344530666,0.037115627344530666,Other
+numeric__achievements,-0.03617210024208114,0.03617210024208114,Other
+developer_publisher__developer_Rooster Teeth Games,0.03506237220317386,0.03506237220317386,Other
+developer_publisher__developer_SEGA,-0.03484030261973464,0.03484030261973464,Other
+developer_publisher__developer_Konami Digital Entertainment,0.03250359886832499,0.03250359886832499,Other
+"developer_publisher__publisher_Nival,Nival",-0.03247963934851009,0.03247963934851009,Other
+"developer_publisher__publisher_Henteko Doujin,Henteko Doujin",0.030796234523667934,0.030796234523667934,Other
+developer_publisher__developer_DIMPS,-0.03055656482108668,0.03055656482108668,Other
+"developer_publisher__publisher_Unknown Worlds Entertainment,Unknown Worlds Entertainment",0.03032221182205233,0.03032221182205233,Other
+"developer_publisher__publisher_Assemble Entertainment,Assemble Entertainment",0.02949865767946197,0.02949865767946197,Other
+developer_publisher__developer_Other Ocean Interactive,0.028785801017724405,0.028785801017724405,Other
+developer_publisher__developer_Lab Zero Games,0.028639097883914232,0.028639097883914232,Other
+"developer_publisher__publisher_Marvelous,Autumn Games,Marvelous,Autumn Games",0.028639097883914232,0.028639097883914232,Other
+developer_publisher__developer_FIVE-BN GAMES,-0.02830655541718787,0.02830655541718787,Other
+"developer_publisher__publisher_FIVE-BN GAMES,FIVE-BN GAMES",-0.02830655541718787,0.02830655541718787,Other
+"developer_publisher__publisher_IPACS,IPACS",-0.028017656992226025,0.028017656992226025,Other
+developer_publisher__developer_KishMish Games,-0.02790689308687786,0.02790689308687786,Other
+developer_publisher__developer_Arc System Works,0.027454374006716627,0.027454374006716627,Other
+"developer_publisher__developer_BANDAI NAMCO Studios,Dimps Corporation",0.025396180505653676,0.025396180505653676,Other
+"developer_publisher__publisher_Might and Delight,Might and Delight",0.0241274146852509,0.0241274146852509,Other
+"developer_publisher__publisher_Zojoi,Zojoi",0.023587465628728384,0.023587465628728384,Other
+developer_publisher__developer_Fabio Ferrara,0.020520724550586244,0.020520724550586244,Other
+developer_publisher__developer_Ludosity,-0.020059555137288097,0.020059555137288097,Other
+developer_publisher__developer_Zojoi,-0.019269892051066446,0.019269892051066446,Other
+"developer_publisher__publisher_HandyGames,HandyGames",0.01695901001124527,0.01695901001124527,Other
+developer_publisher__developer_Capcom,0.01574250410852069,0.01574250410852069,Other
+"developer_publisher__publisher_Frontier Developments,Frontier Developments",-0.015031052897793606,0.015031052897793606,Other
+"developer_publisher__publisher_Dovetail Games - TSW,Dovetail Games - TSW",0.014508915922495015,0.014508915922495015,Other
+"developer_publisher__publisher_Lonely Troops,Lonely Troops",-0.014184520450354265,0.014184520450354265,Other
+developer_publisher__developer_Lonely Troops,-0.014184520450354265,0.014184520450354265,Other
+developer_publisher__developer_Kunos Simulazioni,0.014142695908664616,0.014142695908664616,Other
+"developer_publisher__publisher_Klei Entertainment,Klei Entertainment",0.014017307315475534,0.014017307315475534,Other
+"developer_publisher__publisher_Codemasters,Feral Interactive (Mac),Feral Interactive (Linux),Codemasters,Feral Interactive (Mac),Feral Interactive (Linux)",0.012551173231342439,0.012551173231342439,Other
+"developer_publisher__publisher_Kiddy,Kiddy",-0.011277615243071868,0.011277615243071868,Other
+developer_publisher__developer_Kiddy,-0.011277615243071868,0.011277615243071868,Other
+tags__tag_indie,-0.010106437432596854,0.010106437432596854,Other
+"developer_publisher__publisher_Reverb Triple XP,Reverb Triple XP",-0.009086198101456453,0.009086198101456453,Other
+"developer_publisher__publisher_Versus Evil,Obsidian Entertainment,Versus Evil,Obsidian Entertainment",-0.00854888233305951,0.00854888233305951,Other
+"developer_publisher__publisher_Warner Bros. Interactive Entertainment,Feral Interactive (Mac),Warner Bros. Interactive Entertainment,Feral Interactive (Mac)",0.008439673629119104,0.008439673629119104,Other
+"developer_publisher__publisher_MyACG Studio,MyACG Studio",0.0074557193841279755,0.0074557193841279755,Other
+developer_publisher__release_era_2017-2019,-0.004147167784797838,0.004147167784797838,Other
